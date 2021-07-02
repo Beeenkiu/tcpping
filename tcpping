@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 #
 # tcpping: test response times using TCP SYN packets
 #          URL: https://github.com/deajan/tcpping
